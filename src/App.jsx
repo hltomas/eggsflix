@@ -1,4 +1,3 @@
-import Header from './Header.jsx'
 import Card from './Card.jsx'
 import './App.css';
 import './Card.css'
