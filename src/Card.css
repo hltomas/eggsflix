@@ -1,0 +1,79 @@
+div .row{
+    background-color: white;
+}
+
+.titulo{
+    text-align: center;
+    margin-top: 30px;
+
+}
+
+.tema{
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.ovos{
+    width: 500px;
+    height: 500px;
+   margin-top:7px;
+   margin-left: 20px;
+}
+
+.Card .chickenPic {
+    
+    width: 500px;
+    height: 500px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    position: absolute;
+    top: 40px ;
+    left: 5px
+
+  }
+
+  .Card2 img {
+    
+    width: 500px;
+    height: 500px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    position: absolute; 
+    right: 5px;
+    top: 40px
+  }
+
+  .Card3 img {
+    
+    width: 500px;
+    height: 500px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    position: absolute;
+    top: 600px;
+    left: 5px;
+  }
+
+  .Card4 img {
+    
+    width: 500px;
+    height: 500px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    position: absolute;
+    top: 600px ;
+    right: 5px;
+  }
+
+
+
+
+
+
+ 
+ 
